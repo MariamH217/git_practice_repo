@@ -1,0 +1,6 @@
+Door
+Team
+Book
+Sport
+Face
+Spoon
