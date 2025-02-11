@@ -5,6 +5,11 @@ text4
 text5
 text6
 some text7
+new text3
+text4
+text5
+text6
+new text7 
 text8
 text9
 text10
